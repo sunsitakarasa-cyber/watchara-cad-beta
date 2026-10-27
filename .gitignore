@@ -1,0 +1,10 @@
+# Release binaries belong in Releases; secrets never belong in Git.
+*.zip
+*.7z
+*.exe
+*.dll
+*.pem
+*.key
+.env
+.env.*
+__pycache__/
